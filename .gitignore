@@ -1,0 +1,12 @@
+.DS_Store
+package-lock.json
+
+# Environment files
+.env
+./ecommerce-admin/.env
+./ecommerce-admin/.env
+./ecommerce-front/.env.local
+
+#
+./ecommerce-admin/.eslintrc.json
+./ecommerce-front/.eslintrc.json
